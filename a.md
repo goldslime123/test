@@ -1,2 +1,2 @@
-hello master
+hello from master branch
 
